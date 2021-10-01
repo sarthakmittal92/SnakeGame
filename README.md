@@ -1,5 +1,5 @@
 # SnakeGame
-Original repository: https://github.com/Sarthak0902/TSSPython_200050129/tree/main/Week-3
+Original repository: [TSS Python Week-3](https://github.com/Sarthak0902/TSSPython_200050129/tree/main/Week-3)
 
 ## Requirements
 Preferred OS to run: Linux  
